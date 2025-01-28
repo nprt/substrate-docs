@@ -23,11 +23,11 @@
 /build/tx-weights-fees/                                                     https://docs.polkadot.com/polkadot-protocol/basics/blocks-transactions-fees/fees/                                           301!
 /build/origins/                                                             https://docs.polkadot.com/                                                                                                  301!
 /build/                                                                     https://docs.polkadot.com/develop/                                                                                          301!
-/community/article-bounties/                                                https://docs.polkadot.com/                                                                                                  301!
-/community/contributor-guidelines/                                          https://docs.polkadot.com/                                                                                                  301!
-/community/content-style-guide/                                             https://docs.polkadot.com/                                                                                                  301!
-/community/template-how-to-guide/                                           https://docs.polkadot.com/                                                                                                  301!
-/community/                                                                 https://docs.polkadot.com/                                                                                                  301!
+/community/article-bounties/                                                https://polkadot.com/community                                                                                              301!
+/community/contributor-guidelines/                                          https://polkadot.com/community                                                                                              301!
+/community/content-style-guide/                                             https://polkadot.com/community                                                                                              301!
+/community/template-how-to-guide/                                           https://polkadot.com/community                                                                                              301!
+/community/                                                                 https://polkadot.com/community                                                                                              301!
 /deploy/deploy-on-a-test-network/                                           https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/connect-to-relay-chain/acquire-a-testnet-slot/                  301!
 /deploy/deployment-options/                                                 https://docs.polkadot.com/infrastructure/                                                                                   301!
 /deploy/keys-and-network-operations/                                        https://docs.polkadot.com/                                                                                                  301!
