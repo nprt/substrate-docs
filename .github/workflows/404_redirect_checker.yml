@@ -22,6 +22,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run redirect checker
-        run: .github/scripts/find_redirect_404s.sh ${REDIRECT_FILE}
-        env:
-          REDIRECT_FILE: ${{ github.event.inputs.redirect_file || '.github/scripts/polkadot_com_redirects' }}
+        run: .github/scripts/find_redirect_404s.sh .netlify/_redirects
